@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "title": "We Motivate & Educate<br /> Entrepreneurs",
+    "image": "slides/photo-9.jpg",
+    "buttons": [
+      {
+        "id": 1,
+        "text": "START A PROJECT",
+        "link": "",
+        "type": "btn-dark btn-circle"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "We'r an Financial <br /> Business Agency",
+    "videoMp4": "video/startup.mp4",
+    "videoWeb": "video/startup.webm",
+    "image": "slides/photo-8.jpg",
+    "videoImage": "slides/photo-8.jpg",
+    "buttons": [
+      {
+        "id": 1,
+        "text": "GET A QUOTE",
+        "link": "!#",
+        "type": "btn-outline-white btn-circle"
+      }
+    ]
+  }
+]
