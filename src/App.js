@@ -92,7 +92,6 @@ import GridColumns from "./pages/elements/GridColumns";
 import TeamMembers from "./pages/elements/TeamMembers";
 import Countdowns from "./pages/elements/Countdowns";
 import ScrollToTop from "./helpers/ScrollToTop";
-import Demos from "./pages/Demos";
 
 function App() {
   return (
