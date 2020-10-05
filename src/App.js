@@ -95,12 +95,15 @@ import ScrollToTop from "./helpers/ScrollToTop";
 import Demos from "./pages/Demos";
 
 function App() {
-
   return (
     <Router basename={"/"}>
       <ScrollToTop>
         <Switch>
-          <Route exact path={`${process.env.PUBLIC_URL}/`} component={Demos} />
+          <Route
+            exact
+            path={`${process.env.PUBLIC_URL}/`}
+            component={MinimalDesign}
+          />
           <Route
             exact
             path={`${process.env.PUBLIC_URL}/creative-agency`}
